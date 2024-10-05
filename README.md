@@ -1,4 +1,6 @@
-Rust network experiments
+# Rust network experiments
+
+An experiement to pack, unpack send TCP headers with rust.
 
 ```
 cargo run --bin server
